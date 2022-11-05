@@ -1,1 +1,2 @@
-# PI_Pico_PCF8575t
+# PI_Pico_PCF857x
+Pi Pico Library to interface with PCF857x
